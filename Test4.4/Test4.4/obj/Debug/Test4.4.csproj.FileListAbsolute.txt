@@ -1,0 +1,6 @@
+D:\курсы30.11.19\c#\Структуры\Test4.4\Test4.4\bin\Debug\Test4.4.exe.config
+D:\курсы30.11.19\c#\Структуры\Test4.4\Test4.4\bin\Debug\Test4.4.exe
+D:\курсы30.11.19\c#\Структуры\Test4.4\Test4.4\bin\Debug\Test4.4.pdb
+D:\курсы30.11.19\c#\Структуры\Test4.4\Test4.4\obj\Debug\Test4.4.csprojAssemblyReference.cache
+D:\курсы30.11.19\c#\Структуры\Test4.4\Test4.4\obj\Debug\Test4.4.exe
+D:\курсы30.11.19\c#\Структуры\Test4.4\Test4.4\obj\Debug\Test4.4.pdb

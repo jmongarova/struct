@@ -1,0 +1,12 @@
+C:\Users\jmong\source\repos\Test4.5\Test4.5\bin\Debug\Test4.5.exe.config
+C:\Users\jmong\source\repos\Test4.5\Test4.5\bin\Debug\Test4.5.exe
+C:\Users\jmong\source\repos\Test4.5\Test4.5\bin\Debug\Test4.5.pdb
+C:\Users\jmong\source\repos\Test4.5\Test4.5\obj\Debug\Test4.5.csprojAssemblyReference.cache
+C:\Users\jmong\source\repos\Test4.5\Test4.5\obj\Debug\Test4.5.exe
+C:\Users\jmong\source\repos\Test4.5\Test4.5\obj\Debug\Test4.5.pdb
+D:\курсы30.11.19\c#\Структуры\Test4.5\Test4.5\bin\Debug\Test4.5.exe.config
+D:\курсы30.11.19\c#\Структуры\Test4.5\Test4.5\bin\Debug\Test4.5.exe
+D:\курсы30.11.19\c#\Структуры\Test4.5\Test4.5\bin\Debug\Test4.5.pdb
+D:\курсы30.11.19\c#\Структуры\Test4.5\Test4.5\obj\Debug\Test4.5.csprojAssemblyReference.cache
+D:\курсы30.11.19\c#\Структуры\Test4.5\Test4.5\obj\Debug\Test4.5.exe
+D:\курсы30.11.19\c#\Структуры\Test4.5\Test4.5\obj\Debug\Test4.5.pdb

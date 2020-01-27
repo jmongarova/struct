@@ -1,0 +1,6 @@
+C:\Users\jmong\source\repos\Test4.3\Test4.3\bin\Debug\Test4.3.exe.config
+C:\Users\jmong\source\repos\Test4.3\Test4.3\bin\Debug\Test4.3.exe
+C:\Users\jmong\source\repos\Test4.3\Test4.3\bin\Debug\Test4.3.pdb
+C:\Users\jmong\source\repos\Test4.3\Test4.3\obj\Debug\Test4.3.csprojAssemblyReference.cache
+C:\Users\jmong\source\repos\Test4.3\Test4.3\obj\Debug\Test4.3.exe
+C:\Users\jmong\source\repos\Test4.3\Test4.3\obj\Debug\Test4.3.pdb
